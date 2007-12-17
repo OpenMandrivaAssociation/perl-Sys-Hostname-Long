@@ -14,7 +14,6 @@ Source0:	%{module}-%{version}.tar.bz2
 Patch0:		Sys-Hostname-Long-1.4-no_win32.diff
 BuildArch:	noarch
 BuildRequires:	perl-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 How to get the host full name in perl on multiple operating systems.
