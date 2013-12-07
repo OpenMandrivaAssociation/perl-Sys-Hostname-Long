@@ -3,7 +3,7 @@
 Summary:	Try every conceivable way to get full hostname
 Name:		perl-%{module}
 Version:	1.4
-Release:	12
+Release:	13
 License:	GPL or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{module}/
