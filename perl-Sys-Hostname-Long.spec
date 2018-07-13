@@ -10,6 +10,7 @@ Url:		http://search.cpan.org/dist/%{module}/
 Source0:	%{module}-%{version}.tar.bz2
 Patch0:		Sys-Hostname-Long-1.4-no_win32.diff
 BuildArch:	noarch
+BuildRequires:	perl(Test)
 BuildRequires:	perl-devel
 
 %description
