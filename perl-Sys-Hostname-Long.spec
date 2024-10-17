@@ -6,7 +6,7 @@ Version:	1.4
 Release:	23
 License:	GPL or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{module}/
+Url:		https://search.cpan.org/dist/%{module}/
 Source0:	%{module}-%{version}.tar.bz2
 Patch0:		Sys-Hostname-Long-1.4-no_win32.diff
 BuildArch:	noarch
